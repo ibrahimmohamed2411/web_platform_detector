@@ -1,6 +1,6 @@
 name: web_platform_detector
 description: "A Flutter web helper to detect Android/iOS browsers and open their app store links."
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/ibrahimmohamed2411/web_platform_detector.git
 
 environment:
@@ -21,6 +21,12 @@ dev_dependencies:
 
 # The following section is specific to Flutter packages.
 flutter:
+  plugin:
+    platforms:
+      web:
+        pluginClass: WebPlatformDetectorPlugin
+        fileName: web_platform_detector.dart
+
 
   # To add assets to your package, add an assets section, like this:
   # assets:
