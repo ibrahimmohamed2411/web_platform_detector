@@ -1,6 +1,6 @@
 name: web_platform_detector
 description: "A Flutter web helper to detect Android/iOS browsers and open their app store links."
-version: 0.0.2
+version: 0.0.3
 homepage: https://github.com/ibrahimmohamed2411/web_platform_detector.git
 
 environment:
