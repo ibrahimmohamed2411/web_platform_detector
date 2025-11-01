@@ -1,1 +1,1 @@
-export 'web_platform_detector.dart';
+export 'src/web_platform_detector.dart';
