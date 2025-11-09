@@ -1,3 +1,3 @@
-## 0.0.4
+## 0.0.5
 
-- Cleaned up package structure for better pub.dev compatibility
+- Update README.md

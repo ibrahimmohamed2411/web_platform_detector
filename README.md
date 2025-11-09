@@ -10,22 +10,7 @@ A lightweight Flutter web utility to detect the user's platform (Android/iOS/Des
 - **Zero Dependencies**: Pure Dart implementation with no external packages
 - **Flutter Web Optimized**: Designed specifically for Flutter Web applications
 
----
 
-## 📦 Installation
-
-Add this to your `pubspec.yaml`:
-
-```yaml
-dependencies:
-  web_platform_detector: ^0.0.1
-```
-
-Then run:
-
-```bash
-flutter pub get
-```
 
 ---
 
